@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#main{
+   
+    width: 210vh;
+    height: 180vh;
+  background-color: bisque;
+}
+
+#center{
+    width: 76%;
+    height: 91.8%;
+    overflow: hidden;
+    position: absolute;
+    
+    transform: translate(0%,-50%);
+    left: 10%;
+    top: 55%;
+}
+  .imgcontainer{
+    position: absolute;
+    overflow: hidden;
+    width: 0%;
+    height: 100%;
+    
+  }  
+    
+img{
+    height: 100%;
+    
+}
+    
+
+  #one{
+    width: 100%;
+  } 
+  
+  
+  
+ 
+
+
+
+
+
